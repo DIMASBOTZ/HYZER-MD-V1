@@ -4,13 +4,13 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'FERI STORE'
+global.numberowner = '6283129083971'
+global.instagram = 'https://instagram.com/feri_store01'
+global.github = 'https://github.com/FEROTOD9'
+global.dana = '085237151325'
+global.pulsa = '083129083971'
+global.gopay = 'MINTA KE OWNER'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Yuno Gasai Bot'
